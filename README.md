@@ -7,7 +7,7 @@ I am a **Computer Engineer Student** focused on **Computer Vision** and **Autono
 ### 🛠️ Tech Stack & Skills
 
 * **Languages:** 🐍 `Python`, 🖥️ `C++ / C`, 🗄️ `SQL`
-* **AI & CV:** 👁️ `OpenCV`, 🧠 `Deep Learning`, 🚀 `Object Detection`, 🔥 `PyTorch / TensorFlow`
+* **AI & CV:** 👁️ `OpenCV`, 🧠 `Deep Learning`, 🚀 `Object Detection`, 🔥 `PyTorch / TensorFlow`, ⚙️ `Model Optimization`
 * **Tools:** 🐳 `Docker`, ⚡ `FastAPI`, 🐧 `Linux`, 🐙 `Git`
 
 ---
