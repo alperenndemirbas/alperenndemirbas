@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alperen 👋
 
-<!--
-**alperenndemirbas/alperenndemirbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineer Student** focused on **Computer Vision** and **Autonomous Systems**. I build intelligent solutions for real-world perception challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** 🐍 `Python`, 🖥️ `C++ / C`, 🗄️ `SQL`
+* **AI & CV:** 👁️ `OpenCV`, 🧠 `Deep Learning`, 🚀 `Object Detection`, 🔥 `PyTorch / TensorFlow`
+* **Tools:** 🐳 `Docker`, ⚡ `FastAPI`, 🐧 `Linux`, 🐙 `Git`
+
+---
